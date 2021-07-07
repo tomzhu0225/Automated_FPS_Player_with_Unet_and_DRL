@@ -1,4 +1,8 @@
 # Automated_FPS_Player_with_Unet_and_DRL
+I use tensorflow 2.5.0 for this model.
+
+The input image size for the model is (256,144)
+
 ![overwatch(1)_Page1](https://user-images.githubusercontent.com/75157161/124718412-ab4c5080-df38-11eb-85ae-56e21ac93744.png)
 ![overwatch(1)_Page2](https://user-images.githubusercontent.com/75157161/124718472-b69f7c00-df38-11eb-9138-840a42aa1efc.png)
 ![overwatch(1)_Page3](https://user-images.githubusercontent.com/75157161/124718493-bbfcc680-df38-11eb-90b6-53705db366ba.png)
